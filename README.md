@@ -14,3 +14,5 @@ Apart from this
 ### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidathu-lalam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![SaiDathu's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidathu-lalam)](https://github.com/anuraghazra/github-readme-stats)

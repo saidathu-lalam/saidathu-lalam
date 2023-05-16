@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Sai Dathu
 
 -An Electrical Engineering Undergraduate at NIT Calicut.
-Apart from this
+
+Apart from this:
 - 🔭 I’m currently working on projects related to Blockchain development.
 - 🌱 I’m currently learning Full stack web development and Blockchain development.
 - 📫 How to reach me: saidathu002@gmail.com / lalam_b200290ee@nitc.ac.in

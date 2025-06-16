@@ -3,8 +3,6 @@ Engineer in BEML LTD.
 An Electrical Engineering Undergraduate at NIT Calicut.
 
 Apart from this:
-
-- 🌱 I’m currently learning Full-stack web development and Data Science.
 - 📫 How to reach me: saidathu002@gmail.com
 
 <!-- ### 💻 Tech Stack:
